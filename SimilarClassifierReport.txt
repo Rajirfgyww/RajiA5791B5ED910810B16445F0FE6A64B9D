@@ -1,0 +1,10 @@
+SimilarImageClassifier:2023-09-04 00:07:06
+339,2,WhatsApp Business Images/IMG-20230903-WA0006.jpg,204298,WhatsApp Business Images/IMG-20230903-WA0007.jpg,199724
+341,2,WhatsApp Business Images/IMG-20230903-WA0014.jpg,150760,WhatsApp Business Images/IMG-20230903-WA0013.jpg,182075
+342,2,WhatsApp Business Images/IMG-20230903-WA0021.jpg,146074,WhatsApp Business Images/IMG-20230903-WA0022.jpg,143740
+343,3,WhatsApp Business Images/IMG-20230903-WA0023.jpg,146253,WhatsApp Business Images/IMG-20230903-WA0025.jpg,129283,WhatsApp Business Images/IMG-20230903-WA0024.jpg,149429
+344,2,WhatsApp Business Images/IMG-20230903-WA0029.jpg,185483,WhatsApp Business Images/IMG-20230903-WA0030.jpg,188010
+340,2,WhatsApp Business Images/IMG-20230903-WA0011.jpg,244779,WhatsApp Business Images/IMG-20230903-WA0012.jpg,249460
+345,2,Screenshots/Screenshot_20230903-142334.jpg,522493,Screenshots/Screenshot_20230903-142323.jpg,485131
+346,4,Screenshots/Screenshot_20230903-142457.jpg,463434,Screenshots/Screenshot_20230903-142448.jpg,459993,Screenshots/Screenshot_20230903-142355.jpg,456084,Screenshots/Screenshot_20230903-142502.jpg,483990
+Grouping Finished, Taken Time in ms :4214273
